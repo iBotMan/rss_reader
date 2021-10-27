@@ -6,7 +6,7 @@ format.
 
 
 ### Installation
-$ pip install rss_reader_BotMan
+$ pip install -e .
 
 ### Usage
 $ rss_reader (-h | --help)
